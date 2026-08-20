@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\minitienda\bin\Debug\net10.0\minitienda.exe
+C:\Users\Usuario\Documents\minitienda\bin\Debug\net10.0\minitienda.deps.json
+C:\Users\Usuario\Documents\minitienda\bin\Debug\net10.0\minitienda.runtimeconfig.json
+C:\Users\Usuario\Documents\minitienda\bin\Debug\net10.0\minitienda.dll
+C:\Users\Usuario\Documents\minitienda\bin\Debug\net10.0\minitienda.pdb
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\minitienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\minitienda.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\minitienda.AssemblyInfo.cs
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\minitienda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\minitienda.sourcelink.json
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\minitienda.dll
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\refint\minitienda.dll
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\minitienda.pdb
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\minitienda.genruntimeconfig.cache
+C:\Users\Usuario\Documents\minitienda\obj\Debug\net10.0\ref\minitienda.dll
